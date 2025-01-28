@@ -52,7 +52,7 @@ This project focuses on a **Retrieval-Augmented Generation (RAG)** system enhanc
 
 Check out the project in action below:
 
-[![Watch the video](https://raw.githubusercontent.com/oahednoorforhad/LightRAG-Implementation/main/contents/Chatbot_UI.png)](https://raw.githubusercontent.com/oahednoorforhad/LightRAG-Implementation/main/contents/Demo_video.mp4)
+[![Watch the video](https://raw.githubusercontent.com/oahednoorforhad/LightRAG-Implementation/main/contents/Chatbot_UI.png)](https://raw.githubusercontent.com/oahednoorforhad/LightRAG-Implementation/main/contents/Demo_Video.mp4)
 
 
 ## Conclusion
