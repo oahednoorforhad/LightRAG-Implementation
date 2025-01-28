@@ -43,10 +43,10 @@ This project focuses on a **Retrieval-Augmented Generation (RAG)** system enhanc
 ## Visualizations
 
 ### User Interface
-![UI Interface](path/to/your/ui-interface-image.png)
+![UI Interface](contents/Chatbot_UI.png)
 
 ### Knowledge Graph
-![Knowledge Graph](path/to/your/knowledge-graph-image.png)
+![Knowledge Graph](contents/Knowledge_Graph1.png)
 
 ## Video Showcase
 
