@@ -52,7 +52,7 @@ This project focuses on a **Retrieval-Augmented Generation (RAG)** system enhanc
 
 Check out the project in action on YouTube:
 
-[![Watch the video](https://img.youtube.com/vi/6GO7oJEz2C4/0.jpg)](https://youtu.be/6GO7oJEz2C4)
+[![Watch the video]<iframe width="560" height="315" src="https://www.youtube.com/embed/6GO7oJEz2C4?si=88KvjLK8nBNOx1pt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Conclusion
 
